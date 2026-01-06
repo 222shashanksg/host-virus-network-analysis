@@ -20,7 +20,7 @@ The study followed a multi-stage computational workflow utilizing **Python (Pand
 4.  **Functional Enrichment:** Pathway analysis using g:Profiler (GO, KEGG, Reactome).
 5.  **Druggability Assessment & Docking:** Screening via DrugBank/ChEMBL and molecular docking simulation using **AutoDock Tools**.
 
-<img src="workflow_diagram.png" alt="Project Workflow" width="500">
+<img src="pipeline.png" alt="Project Workflow" width="500">
 <br>
 <em>Figure 1: Computational pipeline for the identification of conserved virus-host factors.</em>
 
@@ -46,7 +46,7 @@ A novel network analysis revealed **13 Bridge Proteins** (e.g., **TRIM28, PABPC1
 ### 3. Functional Enrichment
 Conserved and bridge proteins converged on critical biological processes, specifically **RNA metabolic processes** and **Nuclear Pore transport**, highlighting the viral strategy of hijacking host manufacturing systems.
 
-<img src="pathway_enrichment.png" alt="Functional Enrichment" width="600">
+<img src="pathway_enrichment.png" alt="Functional Enrichment" width="500">
 <br>
 <em>Figure 4: Dot plot showing distinct biological themes for bridge and virus-specific proteins.</em>
 
@@ -60,7 +60,7 @@ A docking simulation of **TCF12** (PDB: `1W76`) with a known small-molecule modu
 *   **Binding Energy:** -6.8 kcal/mol
 *   **Mechanism:** Stable binding within a defined pocket on the protein surface.
 
-<img src="tcf12_docking.png" alt="Molecular Docking" width="700">
+<img src="tcf12_docking.png" alt="Molecular Docking" width="500">
 <br>
 <em>Figure 5: 2D Interaction map and 3D binding pose of the ligand within the TCF12 active site.</em>
 
@@ -74,7 +74,7 @@ As this is a formal project report submitted for the award of Bachelor of Engine
 **Recruiters & Academic Collaborators:**  
 If you wish to review the full project report, detailed statistical analysis, or discussion on the "Bridge Protein" algorithm, please contact me directly:
 
-📧 **Email:** kashyapshashank222@gmail.com
+📧 **Email:** kashyapshashank222@gmail.com <br>
 🔗 **LinkedIn:** https://www.linkedin.com/in/shashank-kashyap-805309238/
 
 ---
